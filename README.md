@@ -1,3 +1,5 @@
+
+Demo Link-https://drive.google.com/file/d/1yba4TFw_JUGCs5QDRQkr0Nij_7nQsAIJ/view?usp=sharing
 # Personal Finance Assistant
 
 A full-stack web application designed to help users track, manage, and understand their financial activities. Users can log income and expenses, categorize transactions, view summaries of their spending habits, and extract expense data from uploaded receipts.
